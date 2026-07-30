@@ -1,6 +1,6 @@
-> 🇪🇸 **Español** | 🇺🇸 [English](./en/index.html) | 🇧🇷 [Português](./pt/index.html)
 
-# Ap BOT v3 - Documentación Oficial
+
+# AP BOT - Documentación Oficial
 
 Bienvenido al centro de ayuda de **Ap BOT v3**. Todo el ecosistema de este bot ha sido diseñado para ser controlado desde un único menú maestro interactivo.
 
