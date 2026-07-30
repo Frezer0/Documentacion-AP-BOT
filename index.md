@@ -23,5 +23,5 @@ A continuación, haz clic en el módulo sobre el que necesitas ayuda para ver su
 *   [⌨️ Lista de Comandos Diarios](./comandos_generales.html)
 
 ---
-> [!TIP]
+
 > **Soporte Rápido:** Si encuentras algún problema, abre un ticket en nuestro servidor oficial de soporte.
